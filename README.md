@@ -24,7 +24,7 @@ A pattern is considered **ADHD-related** if:
 
 A pattern that **does apear in the NON-ADHD group** is considered **ADHD-related** if:
 ✅ It appears in at least **90% of cases within the NON-ADHD group**.
-❌ It does **not appear similarly in the ADHD group at all!!.**
+❌ It does **not appear similarly in the ADHD group at all(Emphasis on absolutely not!).**
  
 
 ## 🎯 Objectives and Impact  
@@ -36,10 +36,6 @@ The ultimate goal is to develop a model that facilitates **rapid and accurate AD
 ## 🚀 Future Work  
 Potential extensions of this research include:  
 
-- 🔹 **Incorporating machine learning models** to enhance classification accuracy.  
+- 🔹 **Incorporating another models** to enhance classification accuracy.  
 - 🔹 **Expanding the dataset** to improve generalizability.  
 - 🔹 **Investigating additional EEG features** that may provide further insights into ADHD diagnosis.  
-
----
-
-💡 **Contributions & Feedback:** We welcome contributions and insights from the community! If you're interested in collaborating, feel free to open an issue or submit a pull request.  
