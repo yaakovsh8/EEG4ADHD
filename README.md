@@ -20,7 +20,12 @@ Our study explores these patterns using two main approaches:
 
 A pattern is considered **ADHD-related** if:  
 ✅ It appears in at least **90% of cases within the ADHD group**.  
-❌ It does **not appear similarly in the control group**.  
+❌ It does **not appear similarly in the control group (NON-ADHD)**.  
+
+A pattern that **does apear in the NON-ADHD group** is considered **ADHD-related** if:
+✅ It appears in at least **90% of cases within the NON-ADHD group**.
+❌ It does **not appear similarly in the ADHD group at all!!.**
+ 
 
 ## 🎯 Objectives and Impact  
 The ultimate goal is to develop a model that facilitates **rapid and accurate ADHD identification** based on EEG data. These findings may contribute to:  
