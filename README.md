@@ -1,6 +1,6 @@
 # EEG-Based ADHD Pattern Recognition  
 
-## 📌 Project Overview  
+## 📌 Reaserch Overview  
 This project aims to identify recurring patterns in brain electrical activity among children with **Attention Deficit Hyperactivity Disorder (ADHD)** through EEG data analysis. The objective is to determine whether specific brain wave patterns can serve as **biological markers** for rapid and accurate ADHD diagnosis.  
 
 ## ⚙️ Methodology  
