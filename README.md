@@ -23,7 +23,7 @@ A pattern is considered **ADHD-related** if:
 ❌ It does **not appear similarly in the control group (NON-ADHD)**.  
 
 A pattern that **does apear in the NON-ADHD group** is considered **ADHD-related** if:  
-✅ It appears in at least **90% of cases within the NON-ADHD group**.
+✅ It appears in at least **90% of cases within the NON-ADHD group**. 
 ❌ It does **not appear similarly in the ADHD group at all(Emphasis on absolutely not!).**
  
 
